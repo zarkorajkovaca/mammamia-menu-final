@@ -1,0 +1,2977 @@
+{
+  "categories": [
+    {
+      "id": "pizza",
+      "group": "food",
+      "name": {
+        "sr": "Pizze",
+        "en": "Pizza",
+        "hu": "Pizzák",
+        "de": "Pizza",
+        "es": "Pizzas",
+        "ru": "Пицца"
+      }
+    },
+    {
+      "id": "pasta",
+      "group": "food",
+      "name": {
+        "sr": "Špageti",
+        "en": "Spaghetti",
+        "hu": "Spagettik",
+        "de": "Spaghetti",
+        "es": "Espaguetis",
+        "ru": "Спагетти"
+      }
+    },
+    {
+      "id": "gnocchi",
+      "group": "food",
+      "name": {
+        "sr": "Njoke",
+        "en": "Gnocchi",
+        "hu": "Gnocchi",
+        "de": "Gnocchi",
+        "es": "Ñoquis",
+        "ru": "Ньокки"
+      }
+    },
+    {
+      "id": "lasagna",
+      "group": "food",
+      "name": {
+        "sr": "Lazanje",
+        "en": "Lasagne",
+        "hu": "Lasagne",
+        "de": "Lasagne",
+        "es": "Lasaña",
+        "ru": "Лазанья"
+      }
+    },
+    {
+      "id": "panzerotti",
+      "group": "food",
+      "name": {
+        "sr": "Pancerote",
+        "en": "Panzerotti",
+        "hu": "Panzerotti",
+        "de": "Panzerotti",
+        "es": "Panzerotti",
+        "ru": "Панцеротти"
+      }
+    },
+    {
+      "id": "dessert",
+      "group": "food",
+      "name": {
+        "sr": "Palačinke",
+        "en": "Pancakes",
+        "hu": "Palacsinta",
+        "de": "Pfannkuchen",
+        "es": "Crepes",
+        "ru": "Блинчики"
+      }
+    },
+    {
+      "id": "extras",
+      "group": "food",
+      "name": {
+        "sr": "Dodaci",
+        "en": "Extras",
+        "hu": "Feltétek",
+        "de": "Extras",
+        "es": "Extras",
+        "ru": "Добавки"
+      }
+    },
+    {
+      "id": "beer",
+      "group": "drinks",
+      "name": {
+        "sr": "Pivo i cider",
+        "en": "Beer & cider",
+        "hu": "Sör és cider",
+        "de": "Bier & Cider",
+        "es": "Cerveza y sidra",
+        "ru": "Пиво и сидр"
+      }
+    },
+    {
+      "id": "soft",
+      "group": "drinks",
+      "name": {
+        "sr": "Sokovi",
+        "en": "Soft drinks",
+        "hu": "Üdítőitalok",
+        "de": "Erfrischungsgetränke",
+        "es": "Refrescos",
+        "ru": "Безалкогольные напитки"
+      }
+    },
+    {
+      "id": "water",
+      "group": "drinks",
+      "name": {
+        "sr": "Vode",
+        "en": "Water",
+        "hu": "Vizek",
+        "de": "Wasser",
+        "es": "Aguas",
+        "ru": "Вода"
+      }
+    },
+    {
+      "id": "wine",
+      "group": "drinks",
+      "name": {
+        "sr": "Vina",
+        "en": "Wine",
+        "hu": "Borok",
+        "de": "Wein",
+        "es": "Vinos",
+        "ru": "Вино"
+      }
+    },
+    {
+      "id": "spirits",
+      "group": "drinks",
+      "name": {
+        "sr": "Žestoka pića",
+        "en": "Spirits",
+        "hu": "Röviditalok",
+        "de": "Spirituosen",
+        "es": "Licores y destilados",
+        "ru": "Крепкие напитки"
+      }
+    },
+    {
+      "id": "hot",
+      "group": "drinks",
+      "name": {
+        "sr": "Topli napici",
+        "en": "Hot drinks",
+        "hu": "Meleg italok",
+        "de": "Heißgetränke",
+        "es": "Bebidas calientes",
+        "ru": "Горячие напитки"
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "margarita",
+      "category": "pizza",
+      "name": {
+        "sr": "Margarita",
+        "en": "Margarita",
+        "hu": "Margarita",
+        "de": "Margarita",
+        "es": "Margarita",
+        "ru": "Маргарита"
+      },
+      "description": {
+        "sr": "sir",
+        "en": "cheese",
+        "hu": "sajt",
+        "de": "Käse",
+        "es": "queso",
+        "ru": "сыр"
+      },
+      "variants": [
+        {
+          "label": "mini",
+          "volume": "19 cm",
+          "price": 400
+        },
+        {
+          "label": "standard",
+          "volume": "27 cm",
+          "price": 575
+        },
+        {
+          "label": "maxi",
+          "volume": "33 cm",
+          "price": 715
+        },
+        {
+          "label": "gala",
+          "volume": "50 cm",
+          "price": 1750
+        }
+      ]
+    },
+    {
+      "id": "vezuvia",
+      "category": "pizza",
+      "name": {
+        "sr": "Vezuvia",
+        "en": "Vezuvia",
+        "hu": "Vezuvia",
+        "de": "Vezuvia",
+        "es": "Vezuvia",
+        "ru": "Везувия"
+      },
+      "description": {
+        "sr": "sir, šunka",
+        "en": "cheese, ham",
+        "hu": "sajt, sonka",
+        "de": "Käse, Schinken",
+        "es": "queso, jamón",
+        "ru": "сыр, ветчина"
+      },
+      "variants": [
+        {
+          "label": "mini",
+          "volume": "19 cm",
+          "price": 430
+        },
+        {
+          "label": "standard",
+          "volume": "27 cm",
+          "price": 620
+        },
+        {
+          "label": "maxi",
+          "volume": "33 cm",
+          "price": 760
+        },
+        {
+          "label": "gala",
+          "volume": "50 cm",
+          "price": 1750
+        }
+      ]
+    },
+    {
+      "id": "capriccozza",
+      "category": "pizza",
+      "name": {
+        "sr": "Capriccozza",
+        "en": "Capriccozza",
+        "hu": "Capriccozza",
+        "de": "Capriccozza",
+        "es": "Capriccozza",
+        "ru": "Каприччоза"
+      },
+      "description": {
+        "sr": "sir, šunka, pečurke",
+        "en": "cheese, ham, mushrooms",
+        "hu": "sajt, sonka, gomba",
+        "de": "Käse, Schinken, Champignons",
+        "es": "queso, jamón, champiñones",
+        "ru": "сыр, ветчина, шампиньоны"
+      },
+      "variants": [
+        {
+          "label": "mini",
+          "volume": "19 cm",
+          "price": 460
+        },
+        {
+          "label": "standard",
+          "volume": "27 cm",
+          "price": 660
+        },
+        {
+          "label": "maxi",
+          "volume": "33 cm",
+          "price": 805
+        },
+        {
+          "label": "gala",
+          "volume": "50 cm",
+          "price": 1750
+        }
+      ]
+    },
+    {
+      "id": "calzona",
+      "category": "pizza",
+      "name": {
+        "sr": "Calzona",
+        "en": "Calzona",
+        "hu": "Calzona",
+        "de": "Calzona",
+        "es": "Calzona",
+        "ru": "Кальцоне"
+      },
+      "description": {
+        "sr": "preklopljeno testo, sir, šunka",
+        "en": "folded dough, cheese, ham",
+        "hu": "hajtott tészta, sajt, sonka",
+        "de": "zusammengeklappter Teig, Käse, Schinken",
+        "es": "masa doblada, queso, jamón",
+        "ru": "закрытая пицца, сыр, ветчина"
+      },
+      "variants": [
+        {
+          "label": "mini",
+          "volume": "19 cm",
+          "price": 430
+        },
+        {
+          "label": "standard",
+          "volume": "27 cm",
+          "price": 620
+        },
+        {
+          "label": "maxi",
+          "volume": "33 cm",
+          "price": 760
+        },
+        {
+          "label": "gala",
+          "volume": "50 cm",
+          "price": 1750
+        }
+      ]
+    },
+    {
+      "id": "vegeterijana",
+      "category": "pizza",
+      "name": {
+        "sr": "Vegeterijana",
+        "en": "Vegetarian",
+        "hu": "Vegetáriánus",
+        "de": "Vegetarisch",
+        "es": "Vegetariana",
+        "ru": "Вегетарианская"
+      },
+      "description": {
+        "sr": "sir, pečurke, paprika, kukuruz, masline",
+        "en": "cheese, mushrooms, peppers, sweetcorn, olives",
+        "hu": "sajt, gomba, paprika, kukorica, olívabogyó",
+        "de": "Käse, Champignons, Paprika, Mais, Oliven",
+        "es": "queso, champiñones, pimiento, maíz, aceitunas",
+        "ru": "сыр, шампиньоны, сладкий перец, кукуруза, оливки"
+      },
+      "variants": [
+        {
+          "label": "mini",
+          "volume": "19 cm",
+          "price": 430
+        },
+        {
+          "label": "standard",
+          "volume": "27 cm",
+          "price": 620
+        },
+        {
+          "label": "maxi",
+          "volume": "33 cm",
+          "price": 760
+        },
+        {
+          "label": "gala",
+          "volume": "50 cm",
+          "price": 1750
+        }
+      ]
+    },
+    {
+      "id": "opera",
+      "category": "pizza",
+      "name": {
+        "sr": "Opera",
+        "en": "Opera",
+        "hu": "Opera",
+        "de": "Opera",
+        "es": "Opera",
+        "ru": "Опера"
+      },
+      "description": {
+        "sr": "sir, šunka, sardine",
+        "en": "cheese, ham, sardines",
+        "hu": "sajt, sonka, szardínia",
+        "de": "Käse, Schinken, Sardinen",
+        "es": "queso, jamón, sardinas",
+        "ru": "сыр, ветчина, сардины"
+      },
+      "variants": [
+        {
+          "label": "mini",
+          "volume": "19 cm",
+          "price": 460
+        },
+        {
+          "label": "standard",
+          "volume": "27 cm",
+          "price": 660
+        },
+        {
+          "label": "maxi",
+          "volume": "33 cm",
+          "price": 805
+        },
+        {
+          "label": "gala",
+          "volume": "50 cm",
+          "price": 1750
+        }
+      ]
+    },
+    {
+      "id": "ufo",
+      "category": "pizza",
+      "name": {
+        "sr": "UFO",
+        "en": "UFO",
+        "hu": "UFO",
+        "de": "UFO",
+        "es": "UFO",
+        "ru": "UFO"
+      },
+      "description": {
+        "sr": "duplo testo, sir, šunka, pečurke",
+        "en": "double dough, cheese, ham, mushrooms",
+        "hu": "dupla tészta, sajt, sonka, gomba",
+        "de": "doppelter Teig, Käse, Schinken, Champignons",
+        "es": "doble masa, queso, jamón, champiñones",
+        "ru": "двойное тесто, сыр, ветчина, шампиньоны"
+      },
+      "variants": [
+        {
+          "label": "mini",
+          "volume": "19 cm",
+          "price": 460
+        },
+        {
+          "label": "standard",
+          "volume": "27 cm",
+          "price": 660
+        },
+        {
+          "label": "maxi",
+          "volume": "33 cm",
+          "price": 805
+        },
+        {
+          "label": "gala",
+          "volume": "50 cm",
+          "price": 1750
+        }
+      ]
+    },
+    {
+      "id": "mammamia",
+      "category": "pizza",
+      "name": {
+        "sr": "Mamma Mia",
+        "en": "Mamma Mia",
+        "hu": "Mamma Mia",
+        "de": "Mamma Mia",
+        "es": "Mamma Mia",
+        "ru": "Mamma Mia"
+      },
+      "description": {
+        "sr": "sir, šunka, pečurke, jaje, paprika, slanina, masline",
+        "en": "cheese, ham, mushrooms, egg, peppers, bacon, olives",
+        "hu": "sajt, sonka, gomba, tojás, paprika, szalonna, olívabogyó",
+        "de": "Käse, Schinken, Champignons, Ei, Paprika, Speck, Oliven",
+        "es": "queso, jamón, champiñones, huevo, pimiento, beicon, aceitunas",
+        "ru": "сыр, ветчина, шампиньоны, яйцо, сладкий перец, бекон, оливки"
+      },
+      "variants": [
+        {
+          "label": "mini",
+          "volume": "19 cm",
+          "price": 475
+        },
+        {
+          "label": "standard",
+          "volume": "27 cm",
+          "price": 715
+        },
+        {
+          "label": "maxi",
+          "volume": "33 cm",
+          "price": 865
+        },
+        {
+          "label": "gala",
+          "volume": "50 cm",
+          "price": 1750
+        }
+      ]
+    },
+    {
+      "id": "sizziliana",
+      "category": "pizza",
+      "name": {
+        "sr": "Sizziliana",
+        "en": "Sizziliana",
+        "hu": "Sizziliana",
+        "de": "Sizziliana",
+        "es": "Sizziliana",
+        "ru": "Сицилиана"
+      },
+      "description": {
+        "sr": "kečap sa belim lukom, sir, šunka, pečurke",
+        "en": "garlic ketchup, cheese, ham, mushrooms",
+        "hu": "fokhagymás ketchup, sajt, sonka, gomba",
+        "de": "Knoblauchketchup, Käse, Schinken, Champignons",
+        "es": "kétchup con ajo, queso, jamón, champiñones",
+        "ru": "кетчуп с чесноком, сыр, ветчина, шампиньоны"
+      },
+      "variants": [
+        {
+          "label": "mini",
+          "volume": "19 cm",
+          "price": 460
+        },
+        {
+          "label": "standard",
+          "volume": "27 cm",
+          "price": 660
+        },
+        {
+          "label": "maxi",
+          "volume": "33 cm",
+          "price": 805
+        },
+        {
+          "label": "gala",
+          "volume": "50 cm",
+          "price": 1750
+        }
+      ]
+    },
+    {
+      "id": "frutti",
+      "category": "pizza",
+      "name": {
+        "sr": "Frutti di Mare",
+        "en": "Frutti di Mare",
+        "hu": "Frutti di Mare",
+        "de": "Frutti di Mare",
+        "es": "Frutti di Mare",
+        "ru": "Фрутти ди Маре"
+      },
+      "description": {
+        "sr": "sir, tunjevina, plodovi mora, masline",
+        "en": "cheese, tuna, seafood, olives",
+        "hu": "sajt, tonhal, tenger gyümölcsei, olívabogyó",
+        "de": "Käse, Thunfisch, Meeresfrüchte, Oliven",
+        "es": "queso, atún, mariscos, aceitunas",
+        "ru": "сыр, тунец, морепродукты, оливки"
+      },
+      "variants": [
+        {
+          "label": "mini",
+          "volume": "19 cm",
+          "price": 535
+        },
+        {
+          "label": "standard",
+          "volume": "27 cm",
+          "price": 760
+        },
+        {
+          "label": "maxi",
+          "volume": "33 cm",
+          "price": 910
+        },
+        {
+          "label": "gala",
+          "volume": "50 cm",
+          "price": 1750
+        }
+      ]
+    },
+    {
+      "id": "bologneze",
+      "category": "pizza",
+      "name": {
+        "sr": "Bologneze",
+        "en": "Bologneze",
+        "hu": "Bologneze",
+        "de": "Bologneze",
+        "es": "Bologneze",
+        "ru": "Болоньезе"
+      },
+      "description": {
+        "sr": "mleveno meso, sir",
+        "en": "minced meat, cheese",
+        "hu": "darált hús, sajt",
+        "de": "Hackfleisch, Käse",
+        "es": "carne picada, queso",
+        "ru": "мясной фарш, сыр"
+      },
+      "variants": [
+        {
+          "label": "mini",
+          "volume": "19 cm",
+          "price": 475
+        },
+        {
+          "label": "standard",
+          "volume": "27 cm",
+          "price": 715
+        },
+        {
+          "label": "maxi",
+          "volume": "33 cm",
+          "price": 865
+        },
+        {
+          "label": "gala",
+          "volume": "50 cm",
+          "price": 1750
+        }
+      ]
+    },
+    {
+      "id": "quatro",
+      "category": "pizza",
+      "name": {
+        "sr": "Quatro Formaggi",
+        "en": "Quatro Formaggi",
+        "hu": "Quatro Formaggi",
+        "de": "Quatro Formaggi",
+        "es": "Quatro Formaggi",
+        "ru": "Четыре сыра"
+      },
+      "description": {
+        "sr": "četiri vrste sira",
+        "en": "four cheeses",
+        "hu": "négyféle sajt",
+        "de": "vier Käsesorten",
+        "es": "cuatro quesos",
+        "ru": "четыре вида сыра"
+      },
+      "variants": [
+        {
+          "label": "mini",
+          "volume": "19 cm",
+          "price": 475
+        },
+        {
+          "label": "standard",
+          "volume": "27 cm",
+          "price": 715
+        },
+        {
+          "label": "maxi",
+          "volume": "33 cm",
+          "price": 865
+        },
+        {
+          "label": "gala",
+          "volume": "50 cm",
+          "price": 1750
+        }
+      ]
+    },
+    {
+      "id": "vojvodjanka",
+      "category": "pizza",
+      "name": {
+        "sr": "Vojvođanka",
+        "en": "Vojvođanka",
+        "hu": "Vojvođanka",
+        "de": "Vojvođanka",
+        "es": "Vojvođanka",
+        "ru": "Воеводжанка"
+      },
+      "description": {
+        "sr": "sir, šunka, dimljeni sir, dimljena plećka, masline",
+        "en": "cheese, ham, smoked cheese, smoked pork shoulder, olives",
+        "hu": "sajt, sonka, füstölt sajt, füstölt sertéslapocka, olívabogyó",
+        "de": "Käse, Schinken, Räucherkäse, geräucherte Schweineschulter, Oliven",
+        "es": "queso, jamón, queso ahumado, paleta de cerdo ahumada, aceitunas",
+        "ru": "сыр, ветчина, копчёный сыр, копчёная свиная лопатка, оливки"
+      },
+      "variants": [
+        {
+          "label": "mini",
+          "volume": "19 cm",
+          "price": 475
+        },
+        {
+          "label": "standard",
+          "volume": "27 cm",
+          "price": 715
+        },
+        {
+          "label": "maxi",
+          "volume": "33 cm",
+          "price": 865
+        },
+        {
+          "label": "gala",
+          "volume": "50 cm",
+          "price": 1750
+        }
+      ]
+    },
+    {
+      "id": "madjarica",
+      "category": "pizza",
+      "name": {
+        "sr": "Mađarica",
+        "en": "Mađarica",
+        "hu": "Mađarica",
+        "de": "Mađarica",
+        "es": "Mađarica",
+        "ru": "Маджарица"
+      },
+      "description": {
+        "sr": "sir, šunka, kulen, feferone",
+        "en": "cheese, ham, kulen spicy sausage, hot peppers",
+        "hu": "sajt, sonka, kulen csípős kolbász, csípős paprika",
+        "de": "Käse, Schinken, Kulen, scharfe Wurst, Peperoni",
+        "es": "queso, jamón, kulen, embutido picante, guindillas",
+        "ru": "сыр, ветчина, кулен (острая колбаса), острый перец"
+      },
+      "variants": [
+        {
+          "label": "mini",
+          "volume": "19 cm",
+          "price": 475
+        },
+        {
+          "label": "standard",
+          "volume": "27 cm",
+          "price": 715
+        },
+        {
+          "label": "maxi",
+          "volume": "33 cm",
+          "price": 865
+        },
+        {
+          "label": "gala",
+          "volume": "50 cm",
+          "price": 1750
+        }
+      ]
+    },
+    {
+      "id": "spaghetti-bolognese",
+      "category": "pasta",
+      "name": {
+        "sr": "Bolognese",
+        "en": "Bolognese",
+        "hu": "Bolognese",
+        "de": "Bolognese",
+        "es": "Bolognese",
+        "ru": "Болоньезе"
+      },
+      "description": {
+        "sr": "špageti, mleveno meso, sir",
+        "en": "spaghetti, minced meat, cheese",
+        "hu": "spagetti, darált hús, sajt",
+        "de": "Spaghetti, Hackfleisch, Käse",
+        "es": "espaguetis, carne picada, queso",
+        "ru": "спагетти, мясной фарш, сыр"
+      },
+      "variants": [
+        {
+          "label": "mini",
+          "volume": "",
+          "price": 460
+        },
+        {
+          "label": "standard",
+          "volume": "",
+          "price": 715
+        },
+        {
+          "label": "maxi",
+          "volume": "",
+          "price": 865
+        }
+      ]
+    },
+    {
+      "id": "spaghetti-milanese",
+      "category": "pasta",
+      "name": {
+        "sr": "Milanese",
+        "en": "Milanese",
+        "hu": "Milanese",
+        "de": "Milanese",
+        "es": "Milanese",
+        "ru": "Миланезе"
+      },
+      "description": {
+        "sr": "špageti, pečurke, paprika, sir",
+        "en": "spaghetti, mushrooms, peppers, cheese",
+        "hu": "spagetti, gomba, paprika, sajt",
+        "de": "Spaghetti, Champignons, Paprika, Käse",
+        "es": "espaguetis, champiñones, pimiento, queso",
+        "ru": "спагетти, шампиньоны, сладкий перец, сыр"
+      },
+      "variants": [
+        {
+          "label": "mini",
+          "volume": "",
+          "price": 450
+        },
+        {
+          "label": "standard",
+          "volume": "",
+          "price": 620
+        },
+        {
+          "label": "maxi",
+          "volume": "",
+          "price": 735
+        }
+      ]
+    },
+    {
+      "id": "gnocchi-meat",
+      "category": "gnocchi",
+      "name": {
+        "sr": "Njoke sa mlevenim mesom",
+        "en": "Gnocchi with minced meat",
+        "hu": "Gnocchi darált hússal",
+        "de": "Gnocchi mit Hackfleisch",
+        "es": "Ñoquis con carne picada",
+        "ru": "Ньокки с мясным фаршем"
+      },
+      "description": {
+        "sr": "njoke, mleveno meso",
+        "en": "gnocchi, minced meat",
+        "hu": "gnocchi, darált hús",
+        "de": "Gnocchi, Hackfleisch",
+        "es": "ñoquis, carne picada",
+        "ru": "ньокки, мясной фарш"
+      },
+      "variants": [
+        {
+          "label": "portion",
+          "volume": "",
+          "price": 680
+        }
+      ]
+    },
+    {
+      "id": "gnocchi-cheese",
+      "category": "gnocchi",
+      "name": {
+        "sr": "Njoke sa sosom od gorgonzole",
+        "en": "Gnocchi with Gorgonzola sauce",
+        "hu": "Gnocchi gorgonzolamártással",
+        "de": "Gnocchi mit Gorgonzolasauce",
+        "es": "Ñoquis con salsa de gorgonzola",
+        "ru": "Ньокки с соусом горгонзола"
+      },
+      "description": {
+        "sr": "njoke, sos od gorgonzole",
+        "en": "gnocchi, Gorgonzola sauce",
+        "hu": "gnocchi, gorgonzolamártás",
+        "de": "Gnocchi, Gorgonzolasauce",
+        "es": "ñoquis, salsa de gorgonzola",
+        "ru": "ньокки, соус из сыра горгонзола"
+      },
+      "variants": [
+        {
+          "label": "portion",
+          "volume": "",
+          "price": 680
+        }
+      ]
+    },
+    {
+      "id": "lasagne",
+      "category": "lasagna",
+      "name": {
+        "sr": "Lazanje",
+        "en": "Lasagne",
+        "hu": "Lasagne",
+        "de": "Lasagne",
+        "es": "Lasaña",
+        "ru": "Лазанья"
+      },
+      "description": {
+        "sr": "testo, bešamel sos, mleveno meso, sir",
+        "en": "dough, béchamel sauce, minced meat, cheese",
+        "hu": "tészta, besamelmártás, darált hús, sajt",
+        "de": "Teig, Béchamelsauce, Hackfleisch, Käse",
+        "es": "masa, salsa bechamel, carne picada, queso",
+        "ru": "тесто, соус бешамель, мясной фарш, сыр"
+      },
+      "variants": [
+        {
+          "label": "portion",
+          "volume": "",
+          "price": 795
+        }
+      ]
+    },
+    {
+      "id": "panzerotti",
+      "category": "panzerotti",
+      "name": {
+        "sr": "Pancerote",
+        "en": "Panzerotti",
+        "hu": "Panzerotti",
+        "de": "Panzerotti",
+        "es": "Panzerotti",
+        "ru": "Панцеротти"
+      },
+      "description": {
+        "sr": "testo, šunka, sir",
+        "en": "dough, ham, cheese",
+        "hu": "tészta, sonka, sajt",
+        "de": "Teig, Schinken, Käse",
+        "es": "masa, jamón, queso",
+        "ru": "тесто, ветчина, сыр"
+      },
+      "variants": [
+        {
+          "label": "standard",
+          "volume": "",
+          "price": 610
+        },
+        {
+          "label": "maxi",
+          "volume": "",
+          "price": 735
+        }
+      ]
+    },
+    {
+      "id": "pancakes",
+      "category": "dessert",
+      "name": {
+        "sr": "Palačinke",
+        "en": "Pancakes",
+        "hu": "Palacsinta",
+        "de": "Pfannkuchen",
+        "es": "Crepes",
+        "ru": "Блинчики"
+      },
+      "description": {
+        "sr": "eurokrem i Plazma, džem, orasi",
+        "en": "Eurocrem spread & Plazma biscuit, jam, walnuts",
+        "hu": "Eurocrem és Plazma keksz, lekvár, dió",
+        "de": "Eurocrem und Plazma-Keks, Konfitüre, Walnüsse",
+        "es": "crema Eurocrem y galleta Plazma, mermelada, nueces",
+        "ru": "шоколадно-ореховая паста Eurocrem и печенье Plazma, джем, грецкие орехи"
+      },
+      "variants": [
+        {
+          "label": "portion",
+          "volume": "",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "id": "extra-ham",
+      "category": "extras",
+      "name": {
+        "sr": "Šunka",
+        "en": "Ham",
+        "hu": "Sonka",
+        "de": "Schinken",
+        "es": "Jamón",
+        "ru": "Ветчина"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "id": "extra-jam",
+      "category": "extras",
+      "name": {
+        "sr": "Džem",
+        "en": "Jam",
+        "hu": "Lekvár",
+        "de": "Konfitüre",
+        "es": "Mermelada",
+        "ru": "Джем"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "",
+          "price": 80
+        }
+      ]
+    },
+    {
+      "id": "extra-walnuts",
+      "category": "extras",
+      "name": {
+        "sr": "Orasi",
+        "en": "Walnuts",
+        "hu": "Dió",
+        "de": "Walnüsse",
+        "es": "Nueces",
+        "ru": "Грецкие орехи"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "",
+          "price": 80
+        }
+      ]
+    },
+    {
+      "id": "extra-cheese",
+      "category": "extras",
+      "name": {
+        "sr": "Sir",
+        "en": "Cheese",
+        "hu": "Sajt",
+        "de": "Käse",
+        "es": "Queso",
+        "ru": "Сыр"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "",
+          "price": 200
+        }
+      ]
+    },
+    {
+      "id": "extra-mushrooms",
+      "category": "extras",
+      "name": {
+        "sr": "Gljive",
+        "en": "Mushrooms",
+        "hu": "Gomba",
+        "de": "Champignons",
+        "es": "Champiñones",
+        "ru": "Грибы"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "",
+          "price": 100
+        }
+      ]
+    },
+    {
+      "id": "extra-kulen",
+      "category": "extras",
+      "name": {
+        "sr": "Kulen",
+        "en": "Kulen spicy sausage",
+        "hu": "Kulen csípős kolbász",
+        "de": "Kulen, scharfe Wurst",
+        "es": "Kulen, embutido picante",
+        "ru": "Кулен (острая колбаса)"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "id": "extra-bacon",
+      "category": "extras",
+      "name": {
+        "sr": "Slanina",
+        "en": "Bacon",
+        "hu": "Szalonna",
+        "de": "Speck",
+        "es": "Beicon",
+        "ru": "Бекон"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "",
+          "price": 80
+        }
+      ]
+    },
+    {
+      "id": "extra-olives",
+      "category": "extras",
+      "name": {
+        "sr": "Masline",
+        "en": "Olives",
+        "hu": "Olívabogyó",
+        "de": "Oliven",
+        "es": "Aceitunas",
+        "ru": "Оливки"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "piece",
+          "volume": "",
+          "price": 10
+        }
+      ]
+    },
+    {
+      "id": "extra-egg",
+      "category": "extras",
+      "name": {
+        "sr": "Jaje",
+        "en": "Egg",
+        "hu": "Tojás",
+        "de": "Ei",
+        "es": "Huevo",
+        "ru": "Яйцо"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "piece",
+          "volume": "",
+          "price": 30
+        }
+      ]
+    },
+    {
+      "id": "extra-hot-pepper",
+      "category": "extras",
+      "name": {
+        "sr": "Feferona",
+        "en": "Hot pepper",
+        "hu": "Csípős paprika",
+        "de": "Peperoni",
+        "es": "Guindilla",
+        "ru": "Острый перец"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "piece",
+          "volume": "",
+          "price": 20
+        }
+      ]
+    },
+    {
+      "id": "extra-shoulder",
+      "category": "extras",
+      "name": {
+        "sr": "Plećka",
+        "en": "Pork shoulder",
+        "hu": "Sertéslapocka",
+        "de": "Schweineschulter",
+        "es": "Paleta de cerdo",
+        "ru": "Свиная лопатка"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "",
+          "price": 200
+        }
+      ]
+    },
+    {
+      "id": "extra-sardine",
+      "category": "extras",
+      "name": {
+        "sr": "Sardina",
+        "en": "Sardine",
+        "hu": "Szardínia",
+        "de": "Sardine",
+        "es": "Sardina",
+        "ru": "Сардина"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "",
+          "price": 100
+        }
+      ]
+    },
+    {
+      "id": "extra-minced-meat",
+      "category": "extras",
+      "name": {
+        "sr": "Mleveno meso",
+        "en": "Minced meat",
+        "hu": "Darált hús",
+        "de": "Hackfleisch",
+        "es": "Carne picada",
+        "ru": "Мясной фарш"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "id": "extra-corn",
+      "category": "extras",
+      "name": {
+        "sr": "Kukuruz",
+        "en": "Sweetcorn",
+        "hu": "Kukorica",
+        "de": "Mais",
+        "es": "Maíz",
+        "ru": "Кукуруза"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "",
+          "price": 40
+        }
+      ]
+    },
+    {
+      "id": "extra-seafood",
+      "category": "extras",
+      "name": {
+        "sr": "Plodovi mora",
+        "en": "Seafood",
+        "hu": "Tenger gyümölcsei",
+        "de": "Meeresfrüchte",
+        "es": "Mariscos",
+        "ru": "Морепродукты"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "id": "extra-tuna",
+      "category": "extras",
+      "name": {
+        "sr": "Tuna",
+        "en": "Tuna",
+        "hu": "Tonhal",
+        "de": "Thunfisch",
+        "es": "Atún",
+        "ru": "Тунец"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "id": "extra-onion",
+      "category": "extras",
+      "name": {
+        "sr": "Crni luk",
+        "en": "Onion",
+        "hu": "Vöröshagyma",
+        "de": "Zwiebel",
+        "es": "Cebolla",
+        "ru": "Репчатый лук"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "",
+          "price": 40
+        }
+      ]
+    },
+    {
+      "id": "extra-oregano",
+      "category": "extras",
+      "name": {
+        "sr": "Origano",
+        "en": "Oregano",
+        "hu": "Oregánó",
+        "de": "Oregano",
+        "es": "Orégano",
+        "ru": "Орегано"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "",
+          "price": 20
+        }
+      ]
+    },
+    {
+      "id": "extra-prosciutto",
+      "category": "extras",
+      "name": {
+        "sr": "Pršuta",
+        "en": "Prosciutto",
+        "hu": "Prosciutto",
+        "de": "Prosciutto",
+        "es": "Jamón curado",
+        "ru": "Прошутто"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "",
+          "price": 300
+        }
+      ]
+    },
+    {
+      "id": "dark-beer",
+      "category": "beer",
+      "name": {
+        "sr": "Crno pivo",
+        "en": "Dark beer",
+        "hu": "Barna sör",
+        "de": "Dunkles Bier",
+        "es": "Cerveza negra",
+        "ru": "Тёмное пиво"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.33 l",
+          "price": 240
+        }
+      ]
+    },
+    {
+      "id": "somersby",
+      "category": "beer",
+      "name": {
+        "sr": "Somersby",
+        "en": "Somersby",
+        "hu": "Somersby",
+        "de": "Somersby",
+        "es": "Somersby",
+        "ru": "Somersby"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.33 l",
+          "price": 260
+        }
+      ]
+    },
+    {
+      "id": "heineken",
+      "category": "beer",
+      "name": {
+        "sr": "Heineken",
+        "en": "Heineken",
+        "hu": "Heineken",
+        "de": "Heineken",
+        "es": "Heineken",
+        "ru": "Heineken"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.4 l",
+          "price": 240
+        }
+      ]
+    },
+    {
+      "id": "niksicko",
+      "category": "beer",
+      "name": {
+        "sr": "Nikšićko",
+        "en": "Nikšićko",
+        "hu": "Nikšićko",
+        "de": "Nikšićko",
+        "es": "Nikšićko",
+        "ru": "Nikšićko"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.5 l",
+          "price": 230
+        }
+      ]
+    },
+    {
+      "id": "jelen",
+      "category": "beer",
+      "name": {
+        "sr": "Jelen",
+        "en": "Jelen",
+        "hu": "Jelen",
+        "de": "Jelen",
+        "es": "Jelen",
+        "ru": "Jelen"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.33 l",
+          "price": 220
+        }
+      ]
+    },
+    {
+      "id": "staropramen",
+      "category": "beer",
+      "name": {
+        "sr": "Staropramen",
+        "en": "Staropramen",
+        "hu": "Staropramen",
+        "de": "Staropramen",
+        "es": "Staropramen",
+        "ru": "Staropramen"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.33 l",
+          "price": 240
+        }
+      ]
+    },
+    {
+      "id": "lav",
+      "category": "beer",
+      "name": {
+        "sr": "Lav Premium",
+        "en": "Lav Premium",
+        "hu": "Lav Premium",
+        "de": "Lav Premium",
+        "es": "Lav Premium",
+        "ru": "Lav Premium"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.33 l",
+          "price": 220
+        }
+      ]
+    },
+    {
+      "id": "tuborg",
+      "category": "beer",
+      "name": {
+        "sr": "Tuborg",
+        "en": "Tuborg",
+        "hu": "Tuborg",
+        "de": "Tuborg",
+        "es": "Tuborg",
+        "ru": "Tuborg"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.5 l",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "id": "jelen-draft",
+      "category": "beer",
+      "name": {
+        "sr": "Jelen točeno",
+        "en": "Jelen draught",
+        "hu": "Jelen csapolt sör",
+        "de": "Jelen vom Fass",
+        "es": "Jelen de barril",
+        "ru": "Разливное пиво Jelen"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.5 l",
+          "price": 250
+        },
+        {
+          "label": "",
+          "volume": "0.33 l",
+          "price": 165
+        }
+      ]
+    },
+    {
+      "id": "bavaria-draft",
+      "category": "beer",
+      "name": {
+        "sr": "Bavaria točeno",
+        "en": "Bavaria draught",
+        "hu": "Bavaria csapolt sör",
+        "de": "Bavaria vom Fass",
+        "es": "Bavaria de barril",
+        "ru": "Разливное пиво Bavaria"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.25 l",
+          "price": 175
+        },
+        {
+          "label": "",
+          "volume": "0.5 l",
+          "price": 350
+        }
+      ]
+    },
+    {
+      "id": "coca-cola",
+      "category": "soft",
+      "name": {
+        "sr": "Coca-Cola",
+        "en": "Coca-Cola",
+        "hu": "Coca-Cola",
+        "de": "Coca-Cola",
+        "es": "Coca-Cola",
+        "ru": "Coca-Cola"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.25 l",
+          "price": 220
+        }
+      ]
+    },
+    {
+      "id": "carbonated",
+      "category": "soft",
+      "name": {
+        "sr": "Gazirani sokovi",
+        "en": "Carbonated soft drinks",
+        "hu": "Szénsavas üdítők",
+        "de": "Kohlensäurehaltige Erfrischungsgetränke",
+        "es": "Refrescos con gas",
+        "ru": "Газированные напитки"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.25 l",
+          "price": 220
+        }
+      ]
+    },
+    {
+      "id": "next",
+      "category": "soft",
+      "name": {
+        "sr": "Sokovi NEXT",
+        "en": "NEXT juices",
+        "hu": "NEXT gyümölcslevek",
+        "de": "NEXT Säfte",
+        "es": "Zumos NEXT",
+        "ru": "Соки NEXT"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.2 l",
+          "price": 220
+        }
+      ]
+    },
+    {
+      "id": "lemonade",
+      "category": "soft",
+      "name": {
+        "sr": "Limunada",
+        "en": "Lemonade",
+        "hu": "Limonádé",
+        "de": "Limonade",
+        "es": "Limonada",
+        "ru": "Лимонад"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.25 l",
+          "price": 220
+        }
+      ]
+    },
+    {
+      "id": "ultra",
+      "category": "soft",
+      "name": {
+        "sr": "Ultra Energy",
+        "en": "Ultra Energy",
+        "hu": "Ultra Energy",
+        "de": "Ultra Energy",
+        "es": "Ultra Energy",
+        "ru": "Ultra Energy"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.25 l",
+          "price": 220
+        }
+      ]
+    },
+    {
+      "id": "cedevita",
+      "category": "soft",
+      "name": {
+        "sr": "Cedevita",
+        "en": "Cedevita",
+        "hu": "Cedevita",
+        "de": "Cedevita",
+        "es": "Cedevita",
+        "ru": "Cedevita"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "",
+          "price": 190
+        }
+      ]
+    },
+    {
+      "id": "mineral",
+      "category": "water",
+      "name": {
+        "sr": "Mineralna voda",
+        "en": "Mineral water",
+        "hu": "Ásványvíz",
+        "de": "Mineralwasser",
+        "es": "Agua mineral",
+        "ru": "Минеральная вода"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "1 l",
+          "price": 320
+        },
+        {
+          "label": "",
+          "volume": "0.33 l",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "id": "vodavoda",
+      "category": "water",
+      "name": {
+        "sr": "Voda Voda",
+        "en": "Voda Voda",
+        "hu": "Voda Voda",
+        "de": "Voda Voda",
+        "es": "Voda Voda",
+        "ru": "Voda Voda"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.33 l",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "id": "rosa",
+      "category": "water",
+      "name": {
+        "sr": "Rosa",
+        "en": "Rosa",
+        "hu": "Rosa",
+        "de": "Rosa",
+        "es": "Rosa",
+        "ru": "Rosa"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.33 l",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "id": "soda",
+      "category": "water",
+      "name": {
+        "sr": "Soda voda",
+        "en": "Soda water",
+        "hu": "Szódavíz",
+        "de": "Sodawasser",
+        "es": "Agua con gas",
+        "ru": "Содовая вода"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "1 l",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "id": "romerquelle",
+      "category": "water",
+      "name": {
+        "sr": "Römerquelle",
+        "en": "Römerquelle",
+        "hu": "Römerquelle",
+        "de": "Römerquelle",
+        "es": "Römerquelle",
+        "ru": "Römerquelle"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.33 l",
+          "price": 220
+        }
+      ]
+    },
+    {
+      "id": "house-wine",
+      "category": "wine",
+      "name": {
+        "sr": "Vino kuće – Kovačević",
+        "en": "House wine – Kovačević",
+        "hu": "Ház bora – Kovačević",
+        "de": "Hauswein – Kovačević",
+        "es": "Vino de la casa – Kovačević",
+        "ru": "Домашнее вино — Kovačević"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.2 l",
+          "price": 200
+        }
+      ]
+    },
+    {
+      "id": "krstac",
+      "category": "wine",
+      "name": {
+        "sr": "Krstač",
+        "en": "Krstač",
+        "hu": "Krstač",
+        "de": "Krstač",
+        "es": "Krstač",
+        "ru": "Krstač"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.2 l",
+          "price": 190
+        }
+      ]
+    },
+    {
+      "id": "petrovic",
+      "category": "wine",
+      "name": {
+        "sr": "Vinarija Petrović (Rosé, Sila, Cabernet)",
+        "en": "Petrović winery (Rosé, Sila, Cabernet)",
+        "hu": "Petrović pincészet (Rosé, Sila, Cabernet)",
+        "de": "Weingut Petrović (Rosé, Sila, Cabernet)",
+        "es": "Bodega Petrović (Rosé, Sila, Cabernet)",
+        "ru": "Винодельня Petrović (Rosé, Sila, Cabernet)"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.7 l",
+          "price": 1500
+        }
+      ]
+    },
+    {
+      "id": "chardonnay",
+      "category": "wine",
+      "name": {
+        "sr": "Chardonnay",
+        "en": "Chardonnay",
+        "hu": "Chardonnay",
+        "de": "Chardonnay",
+        "es": "Chardonnay",
+        "ru": "Шардоне"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.7 l",
+          "price": 1500
+        }
+      ]
+    },
+    {
+      "id": "vranac",
+      "category": "wine",
+      "name": {
+        "sr": "Vranac",
+        "en": "Vranac",
+        "hu": "Vranac",
+        "de": "Vranac",
+        "es": "Vranac",
+        "ru": "Вранац"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.2 l",
+          "price": 190
+        }
+      ]
+    },
+    {
+      "id": "sangria",
+      "category": "wine",
+      "name": {
+        "sr": "Sangria",
+        "en": "Sangria",
+        "hu": "Sangria",
+        "de": "Sangria",
+        "es": "Sangria",
+        "ru": "Сангрия"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.2 l",
+          "price": 190
+        }
+      ]
+    },
+    {
+      "id": "procorde",
+      "category": "wine",
+      "name": {
+        "sr": "Vranac Pro Corde",
+        "en": "Vranac Pro Corde",
+        "hu": "Vranac Pro Corde",
+        "de": "Vranac Pro Corde",
+        "es": "Vranac Pro Corde",
+        "ru": "Vranac Pro Corde"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.7 l",
+          "price": 1700
+        }
+      ]
+    },
+    {
+      "id": "gordons",
+      "category": "spirits",
+      "name": {
+        "sr": "Gordon’s Gin",
+        "en": "Gordon’s Gin",
+        "hu": "Gordon’s Gin",
+        "de": "Gordon’s Gin",
+        "es": "Gordon’s Gin",
+        "ru": "Джин Gordon’s"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.03 l",
+          "price": 230
+        }
+      ]
+    },
+    {
+      "id": "campari",
+      "category": "spirits",
+      "name": {
+        "sr": "Campari",
+        "en": "Campari",
+        "hu": "Campari",
+        "de": "Campari",
+        "es": "Campari",
+        "ru": "Campari"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.03 l",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "id": "bacardi",
+      "category": "spirits",
+      "name": {
+        "sr": "Bacardi Rum",
+        "en": "Bacardi Rum",
+        "hu": "Bacardi Rum",
+        "de": "Bacardi Rum",
+        "es": "Bacardi Rum",
+        "ru": "Ром Bacardi"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.03 l",
+          "price": 230
+        }
+      ]
+    },
+    {
+      "id": "rum",
+      "category": "spirits",
+      "name": {
+        "sr": "Rum domaći",
+        "en": "Domestic rum",
+        "hu": "Hazai rum",
+        "de": "Einheimischer Rum",
+        "es": "Ron nacional",
+        "ru": "Местный ром"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.03 l",
+          "price": 180
+        }
+      ]
+    },
+    {
+      "id": "martini",
+      "category": "spirits",
+      "name": {
+        "sr": "Martini Bianco",
+        "en": "Martini Bianco",
+        "hu": "Martini Bianco",
+        "de": "Martini Bianco",
+        "es": "Martini Bianco",
+        "ru": "Martini Bianco"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.05 l",
+          "price": 230
+        }
+      ]
+    },
+    {
+      "id": "jager",
+      "category": "spirits",
+      "name": {
+        "sr": "Jägermeister",
+        "en": "Jägermeister",
+        "hu": "Jägermeister",
+        "de": "Jägermeister",
+        "es": "Jägermeister",
+        "ru": "Jägermeister"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.03 l",
+          "price": 230
+        }
+      ]
+    },
+    {
+      "id": "rakija",
+      "category": "spirits",
+      "name": {
+        "sr": "Rakija domaća",
+        "en": "Local fruit brandy (rakija)",
+        "hu": "Házi rakija (gyümölcspárlat)",
+        "de": "Hausgemachter Obstbrand (Rakija)",
+        "es": "Aguardiente de frutas local (rakija)",
+        "ru": "Домашняя ракия (фруктовый дистиллят)"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.03 l",
+          "price": 230
+        }
+      ]
+    },
+    {
+      "id": "pelinkovac",
+      "category": "spirits",
+      "name": {
+        "sr": "Pelinkovac",
+        "en": "Pelinkovac herbal liqueur",
+        "hu": "Pelinkovac gyógynövénylikőr",
+        "de": "Pelinkovac Kräuterlikör",
+        "es": "Licor de hierbas Pelinkovac",
+        "ru": "Травяной ликёр Pelinkovac"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.03 l",
+          "price": 160
+        }
+      ]
+    },
+    {
+      "id": "vinjak",
+      "category": "spirits",
+      "name": {
+        "sr": "Vinjak",
+        "en": "Vinjak",
+        "hu": "Vinjak",
+        "de": "Vinjak",
+        "es": "Vinjak",
+        "ru": "Виньяк"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.03 l",
+          "price": 180
+        }
+      ]
+    },
+    {
+      "id": "stock",
+      "category": "spirits",
+      "name": {
+        "sr": "Stock",
+        "en": "Stock",
+        "hu": "Stock",
+        "de": "Stock",
+        "es": "Stock",
+        "ru": "Stock"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.03 l",
+          "price": 190
+        }
+      ]
+    },
+    {
+      "id": "viljamovka",
+      "category": "spirits",
+      "name": {
+        "sr": "Viljamovka",
+        "en": "Williams pear brandy",
+        "hu": "Vilmoskörte-párlat",
+        "de": "Williamsbirnenbrand",
+        "es": "Aguardiente de pera Williams",
+        "ru": "Вильямовка (грушевая ракия)"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.03 l",
+          "price": 230
+        }
+      ]
+    },
+    {
+      "id": "vodka",
+      "category": "spirits",
+      "name": {
+        "sr": "Vodka",
+        "en": "Vodka",
+        "hu": "Vodka",
+        "de": "Wodka",
+        "es": "Vodka",
+        "ru": "Водка"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.03 l",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "id": "smirnoff",
+      "category": "spirits",
+      "name": {
+        "sr": "Smirnoff Vodka",
+        "en": "Smirnoff Vodka",
+        "hu": "Smirnoff Vodka",
+        "de": "Smirnoff Vodka",
+        "es": "Smirnoff Vodka",
+        "ru": "Водка Smirnoff"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.03 l",
+          "price": 230
+        }
+      ]
+    },
+    {
+      "id": "whisky",
+      "category": "spirits",
+      "name": {
+        "sr": "Whisky",
+        "en": "Whisky",
+        "hu": "Whisky",
+        "de": "Whisky",
+        "es": "Whisky",
+        "ru": "Виски"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "0.03 l",
+          "price": 230
+        }
+      ]
+    },
+    {
+      "id": "jack",
+      "category": "spirits",
+      "name": {
+        "sr": "Jack Daniel’s",
+        "en": "Jack Daniel’s",
+        "hu": "Jack Daniel’s",
+        "de": "Jack Daniel’s",
+        "es": "Jack Daniel’s",
+        "ru": "Jack Daniel’s"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "",
+          "price": 290
+        }
+      ]
+    },
+    {
+      "id": "black",
+      "category": "hot",
+      "name": {
+        "sr": "Crna kafa",
+        "en": "Turkish coffee",
+        "hu": "Török kávé",
+        "de": "Türkischer Kaffee",
+        "es": "Café turco",
+        "ru": "Кофе по-турецки"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "id": "black-milk",
+      "category": "hot",
+      "name": {
+        "sr": "Crna kafa sa mlekom",
+        "en": "Turkish coffee with milk",
+        "hu": "Török kávé tejjel",
+        "de": "Türkischer Kaffee mit Milch",
+        "es": "Café turco con leche",
+        "ru": "Кофе по-турецки с молоком"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "",
+          "price": 160
+        }
+      ]
+    },
+    {
+      "id": "black-cream",
+      "category": "hot",
+      "name": {
+        "sr": "Crna kafa sa šlagom",
+        "en": "Turkish coffee with whipped cream",
+        "hu": "Török kávé tejszínhabbal",
+        "de": "Türkischer Kaffee mit Schlagsahne",
+        "es": "Café turco con nata montada",
+        "ru": "Кофе по-турецки со взбитыми сливками"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "",
+          "price": 170
+        }
+      ]
+    },
+    {
+      "id": "espresso",
+      "category": "hot",
+      "name": {
+        "sr": "Espresso kafa",
+        "en": "Espresso",
+        "hu": "Eszpresszó",
+        "de": "Espresso",
+        "es": "Espresso",
+        "ru": "Эспрессо"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "",
+          "price": 160
+        }
+      ]
+    },
+    {
+      "id": "espresso-milk",
+      "category": "hot",
+      "name": {
+        "sr": "Espresso sa mlekom",
+        "en": "Espresso with milk",
+        "hu": "Eszpresszó tejjel",
+        "de": "Espresso mit Milch",
+        "es": "Espresso con leche",
+        "ru": "Эспрессо с молоком"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "",
+          "price": 170
+        }
+      ]
+    },
+    {
+      "id": "espresso-cream",
+      "category": "hot",
+      "name": {
+        "sr": "Espresso sa šlagom",
+        "en": "Espresso with whipped cream",
+        "hu": "Eszpresszó tejszínhabbal",
+        "de": "Espresso mit Schlagsahne",
+        "es": "Espresso con nata montada",
+        "ru": "Эспрессо со взбитыми сливками"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "",
+          "price": 180
+        }
+      ]
+    },
+    {
+      "id": "ness",
+      "category": "hot",
+      "name": {
+        "sr": "Ness kafa",
+        "en": "Instant coffee",
+        "hu": "Instant kávé",
+        "de": "Instantkaffee",
+        "es": "Café soluble",
+        "ru": "Растворимый кофе"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "",
+          "price": 160
+        }
+      ]
+    },
+    {
+      "id": "ness-cream",
+      "category": "hot",
+      "name": {
+        "sr": "Ness kafa sa šlagom",
+        "en": "Instant coffee with whipped cream",
+        "hu": "Instant kávé tejszínhabbal",
+        "de": "Instantkaffee mit Schlagsahne",
+        "es": "Café soluble con nata montada",
+        "ru": "Растворимый кофе со взбитыми сливками"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "",
+          "price": 170
+        }
+      ]
+    },
+    {
+      "id": "chocolate",
+      "category": "hot",
+      "name": {
+        "sr": "Topla čokolada",
+        "en": "Hot chocolate",
+        "hu": "Forró csokoládé",
+        "de": "Heiße Schokolade",
+        "es": "Chocolate caliente",
+        "ru": "Горячий шоколад"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "",
+          "price": 180
+        }
+      ]
+    },
+    {
+      "id": "chocolate-cream",
+      "category": "hot",
+      "name": {
+        "sr": "Topla čokolada sa šlagom",
+        "en": "Hot chocolate with whipped cream",
+        "hu": "Forró csokoládé tejszínhabbal",
+        "de": "Heiße Schokolade mit Schlagsahne",
+        "es": "Chocolate caliente con nata montada",
+        "ru": "Горячий шоколад со взбитыми сливками"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "",
+          "price": 190
+        }
+      ]
+    },
+    {
+      "id": "tea",
+      "category": "hot",
+      "name": {
+        "sr": "Čaj",
+        "en": "Tea",
+        "hu": "Tea",
+        "de": "Tee",
+        "es": "Té",
+        "ru": "Чай"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "id": "tea-honey",
+      "category": "hot",
+      "name": {
+        "sr": "Čaj sa medom",
+        "en": "Tea with honey",
+        "hu": "Tea mézzel",
+        "de": "Tee mit Honig",
+        "es": "Té con miel",
+        "ru": "Чай с мёдом"
+      },
+      "description": {
+        "sr": "",
+        "en": "",
+        "hu": "",
+        "de": "",
+        "es": "",
+        "ru": ""
+      },
+      "variants": [
+        {
+          "label": "",
+          "volume": "",
+          "price": 170
+        }
+      ]
+    }
+  ]
+}

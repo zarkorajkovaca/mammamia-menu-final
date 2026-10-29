@@ -1,0 +1,40 @@
+{
+  "functions": {
+    "api/*.php": {
+      "runtime": "vercel-php@0.9.0"
+    }
+  },
+  "routes": [
+    {
+      "src": "/(data|includes|references|tests)(/.*)?",
+      "status": 404
+    },
+    {
+      "src": "/",
+      "dest": "/api/index.php"
+    },
+    {
+      "src": "/index\\.php",
+      "dest": "/api/index.php"
+    },
+    {
+      "src": "/menu/?",
+      "dest": "/api/menu.php"
+    },
+    {
+      "src": "/menu\\.php",
+      "dest": "/api/menu.php"
+    },
+    {
+      "src": "/qr/?",
+      "dest": "/api/qr.php"
+    },
+    {
+      "src": "/qr\\.php",
+      "dest": "/api/qr.php"
+    },
+    {
+      "handle": "filesystem"
+    }
+  ]
+}

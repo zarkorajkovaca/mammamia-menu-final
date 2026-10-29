@@ -1,0 +1,18 @@
+{
+  "name": "Mamma Mia",
+  "city": "Sombor",
+  "address": "VI Ličke divizije 1, Sombor",
+  "phones": [
+    {
+      "display": "025 442 202",
+      "href": "+38125442202"
+    },
+    {
+      "display": "062 442 202",
+      "href": "+38162442202"
+    }
+  ],
+  "deliveryPrice": 150,
+  "publicUrl": "",
+  "currency": "RSD"
+}
